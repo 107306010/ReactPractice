@@ -1,3 +1,4 @@
+跟著教學實作的簡單計數器
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
